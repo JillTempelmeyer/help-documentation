@@ -148,7 +148,7 @@ Each image is displayed as a card. Cards are grouped by operating system.
 1. Hover over the card associated with the image you would like to download. 
 2. Click the card. This will open a modal window containing download links to the image and Checksum. 
 3. Click the **copy** button to the left of the Image URL. This will add the URL to your clipboard. 
-4. This can also be done using OpenStack APIs. For instructions, click here: https://github.com/IBM-Blue-Box-Help/help-documentation/blob/gh-pages/_gettingstarted/Cloud_Images_Provided_by_IBM.md 
+4. This can also be done using OpenStack APIs. For instructions, click here: https://github.com/IBM-Blue-Box-Help/help-documentation/blob/gh-pages/_gettingstarted/Cloud_Images_Provided_by_IBM.md
 
 ![Image of Dashboard 5](https://github.com/help-documentation/img/Dashboard 5.png) 
 
@@ -247,7 +247,7 @@ To view your contracts and monthly billing reports, simply click the **Account**
 **To become a new customer:**
 
 1. Provide the Blue Box Support team with the billing manager’s name, email, and contact information associated with your company.
-2. After your company’s billing information is received by the IBM Finance, a contract will be created based on your requirements. Every IBM customer has a CFTS (customer fulfillment) account assigned. These are documented and written on your contract. 
+2. After your company’s billing information is received by the IBM Finance, a contract will be created based on your requirements. Every IBM customer has a CFTS (customer fulfillment) account assigned, which you will find documented on your contract. 
 3. A billing start date will be set in order for your solution to begin to be billed (typically the start date is the same as your deployment date, and repeats monthly).
 
 Once you’re able to log into Box Panel, you can view your billing information by selecting **Billing** under the **Account** drop-down menu. From here, you can view your **Account Services** and **Billing History**.
